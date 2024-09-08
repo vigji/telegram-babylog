@@ -172,8 +172,7 @@ class CsvLogger:
         return cls(file_path)
 
     def backup(self):
-        key = "AIzaSyAsK0WsaG-dkWqnKNm53OQpIShLR865WPw"
-        "gregbot@greg-log.iam.gserviceaccount.com"
+
         backup_folder = self.file_path.parent / "backups"
         backup_folder.mkdir(parents=True, exist_ok=True)
 
