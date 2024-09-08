@@ -1,6 +1,6 @@
-# `telegram-babylog`
+# `telegram-babylog` 👶🧾
 
-As baby logging seems to be mostly handled by over-proced and ads-ridden apps with little access to raw data, this is a simple, minimal solution using Telegram and GoogleDrive.
+As baby logging seems to be mostly handled by over-proced and ads-ridden apps with little access to raw data, this is a simple, minimal solution to track a newborn dayly activities (poops, pees, feeding, sleeping, plush weights) using Telegram and GoogleDrive. Everything is very miminal & easy to customize.
 
 
 ### Requirements

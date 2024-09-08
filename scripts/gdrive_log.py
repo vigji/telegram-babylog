@@ -140,7 +140,7 @@ class GDriveLogger:
 
 if __name__ == "__main__":
     # test the GDriveLogger class:
-    filename = Path("/Users/vigji/Desktop/telegram_bot/log_2024-04-25_14-41-47.csv")
+    filename = Path("/path/to/test.csv")
 
     # Replace 'your_email@example.com' with your personal Google account email
     gdrive_backup = GDriveLogger()
